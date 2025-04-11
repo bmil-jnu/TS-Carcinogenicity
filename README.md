@@ -18,11 +18,14 @@ If you want, you can train and predict new datasets from the structure of the mo
 
 ## Dependency
 
-`Python == 3.7`
-`tensorflow == 2.7.0`
-`keras == 2.7.0`
-`scikit-learn == 0.24.2`
-`RDKit == 2021.09.3`
+`Pillow==9.5.0`
+`iterative-stratification==0.1.7`
+`pandas==1.1.5`
+`rdkit==2023.3.1`
+`scikit-learn==1.0.2`
+`torch==1.12.1+cu113`
+`torch-geometric==2.3.1`
+
 
 # Contacts
 
