@@ -1,0 +1,7 @@
+SMILES,result_lun,result_sto,result_mgl
+C=CCN(C(=O)N)N=O,1,1,1
+CC(=O)N(C1=CC2=C(C=C1)C3=CC=CC=C3C2)O,0,1,1
+CC(=O)NC1=NC(=CS1)C2=CC=C(O2)[N+](=O)[O-],1,1,1
+CC1=CC2=C(C=CC=N2)C3=C1N(C(=N3)N)C,0,1,1
+CCN(C(=O)NCCO)N=O,1,1,1
+CN(C(=O)N)N=O,1,1,1

@@ -1,0 +1,11 @@
+SMILES,result_liv,result_lun,result_sto
+C(C=O)Br,0,0,0
+C1=CC=C2C(=C1)C(=O)N(C2=O)SC(Cl)(Cl)Cl,0,0,1
+C1=CC=C2C(=C1)C(=O)NS2(=O)=O,0,0,0
+C1=COC(=C1)C=O,1,0,1
+CC(=O)N(C1=CC2=C(C=C1)C3=CC=CC=C3C2)O,1,0,1
+CC1=C(N=CN1)CSCCNC(=NC)NC#N,0,0,0
+CC1=CC(=C(C(=C1)C(C)(C)C)O)C(C)(C)C,1,1,0
+CC1=CC2=C(C=CC=N2)C3=C1N(C(=N3)N)C,1,0,1
+CCO,1,1,0
+CCOC(=O)C=C,0,0,1
