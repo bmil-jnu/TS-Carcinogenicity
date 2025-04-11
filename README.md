@@ -1,4 +1,4 @@
-# FetoML
+# Tissue-Specific Carcinogenicity Prediction Using Multi-Task Learning on Attention-based Graph Neural Networks
 
 Title: Tissue-Specific Carcinogenicity Prediction Using Multi-Task Learning on Attention-based Graph Neural Networks
 
