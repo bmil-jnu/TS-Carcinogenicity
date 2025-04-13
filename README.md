@@ -11,8 +11,8 @@ You can find the data and source code used in the paper.
 In addition, we provide a Python file that can be used to generate predictions from the model we trained.
 If you want, you can train and predict new datasets from the structure of the model we proposed.
 
-- **[Dataset](https://github.com/bmil-jnu/Tissue-Specific-Carcinogenicity-Prediction-Using-Multi-Task-Learning/tree/main/data)**: The dataset used in the paper.
-- **[Multi task model source codes](https://github.com/bmil-jnu/Tissue-Specific-Carcinogenicity-Prediction-Using-Multi-Task-Learning/tree/main/model/multi_task)**: Multi-task model training and gradient similarity calculation 
+- **[Dataset](https://github.com/bmil-jnu/Tissue-Specific-Carcinogenicity-Prediction-Using-Multi-Task-Learning/tree/main/data)** : The dataset used in the paper.
+- **[Multi task model source codes](https://github.com/bmil-jnu/Tissue-Specific-Carcinogenicity-Prediction-Using-Multi-Task-Learning/tree/main/model/multi_task)** : Multi-task model training and gradient similarity calculation 
 - **[Prediction analysis codes](https://github.com/bmil-jnu/Tissue-Specific-Carcinogenicity-Prediction-Using-Multi-Task-Learning/tree/main/model/multi_task)** :Analytics for performance evaluation and attention highlighting
 - **[Comparison model(single task) codes](https://github.com/bmil-jnu/Tissue-Specific-Carcinogenicity-Prediction-Using-Multi-Task-Learning/tree/main/model/single_task)** :Performance evaluation comparison model (single task)
 - **[Comparison model(CarcGC) codes](https://github.com/bmil-jnu/Tissue-Specific-Carcinogenicity-Prediction-Using-Multi-Task-Learning/tree/main/model/CarcGC)** :Performance evaluation comparison model (CarcGC)
