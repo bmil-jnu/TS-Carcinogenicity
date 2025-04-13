@@ -13,10 +13,10 @@ If you want, you can train and predict new datasets from the structure of the mo
 
 - **[Dataset](https://github.com/bmil-jnu/Tissue-Specific-Carcinogenicity-Prediction-Using-Multi-Task-Learning/tree/main/data)** : The dataset used in the paper.
 - **[Multi task model source codes](https://github.com/bmil-jnu/Tissue-Specific-Carcinogenicity-Prediction-Using-Multi-Task-Learning/tree/main/model/multi_task)** : Multi-task model training and gradient similarity calculation 
-- **[Prediction analysis codes](https://github.com/bmil-jnu/Tissue-Specific-Carcinogenicity-Prediction-Using-Multi-Task-Learning/tree/main/model/multi_task)** :Analytics for performance evaluation and attention highlighting
-- **[Comparison model(single task) codes](https://github.com/bmil-jnu/Tissue-Specific-Carcinogenicity-Prediction-Using-Multi-Task-Learning/tree/main/model/single_task)** :Performance evaluation comparison model (single task)
-- **[Comparison model(CarcGC) codes](https://github.com/bmil-jnu/Tissue-Specific-Carcinogenicity-Prediction-Using-Multi-Task-Learning/tree/main/model/CarcGC)** :Performance evaluation comparison model (CarcGC)
-- **[Comparison model(DCAMCP) codes](https://github.com/bmil-jnu/Tissue-Specific-Carcinogenicity-Prediction-Using-Multi-Task-Learning/tree/main/model/DCAMCP)** :Performance evaluation comparison model (DCAMCP)
+- **[Prediction analysis codes](https://github.com/bmil-jnu/Tissue-Specific-Carcinogenicity-Prediction-Using-Multi-Task-Learning/tree/main/model/multi_task)** : Analytics for performance evaluation and attention highlighting
+- **[Comparison model(single task) codes](https://github.com/bmil-jnu/Tissue-Specific-Carcinogenicity-Prediction-Using-Multi-Task-Learning/tree/main/model/single_task)** : Performance evaluation comparison model (single task)
+- **[Comparison model(CarcGC) codes](https://github.com/bmil-jnu/Tissue-Specific-Carcinogenicity-Prediction-Using-Multi-Task-Learning/tree/main/model/CarcGC)** : Performance evaluation comparison model (CarcGC)
+- **[Comparison model(DCAMCP) codes](https://github.com/bmil-jnu/Tissue-Specific-Carcinogenicity-Prediction-Using-Multi-Task-Learning/tree/main/model/DCAMCP)** : Performance evaluation comparison model (DCAMCP)
 
 ## Dependency
 
