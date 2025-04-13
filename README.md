@@ -11,11 +11,11 @@ You can find the data and source code used in the paper.
 In addition, we provide a Python file that can be used to generate predictions from the model we trained.
 If you want, you can train and predict new datasets from the structure of the model we proposed.
 
-- [Dataset](https://github.com/bmil-jnu/FetoML/tree/main/Data)
-- [Model source codes](https://github.com/bmil-jnu/FetoML/tree/main/Model%20Code/Model)
-- [Hyperparameter optimization](https://github.com/bmil-jnu/FetoML/tree/main/Model%20Code/Hyperparameter%20Optimization)
-- [Prediction analysis codes](https://github.com/bmil-jnu/FetoML/tree/main/Model%20Code/Analysis)
-
+- [Dataset](https://github.com/bmil-jnu/Tissue-Specific-Carcinogenicity-Prediction-Using-Multi-Task-Learning/data)
+- [Model source codes](https://github.com/bmil-jnu/Tissue-Specific-Carcinogenicity-Prediction-Using-Multi-Task-Learning/model/multi_task).
+- [Prediction analysis codes](https://github.com/bmil-jnu/Tissue-Specific-Carcinogenicity-Prediction-Using-Multi-Task-Learning/model/multi_task))
+- [Comparison model codes](https://github.com/bmil-jnu/Tissue-Specific-Carcinogenicity-Prediction-Using-Multi-Task-Learning/model))
+- 
 ## Dependency
 
 `Pillow==9.5.0`
