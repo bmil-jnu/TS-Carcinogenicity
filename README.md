@@ -13,8 +13,8 @@ If you want, you can train and predict new datasets from the structure of the mo
 
 - [Dataset](https://github.com/bmil-jnu/Tissue-Specific-Carcinogenicity-Prediction-Using-Multi-Task-Learning/data)
 - [Model source codes](https://github.com/bmil-jnu/Tissue-Specific-Carcinogenicity-Prediction-Using-Multi-Task-Learning/model/multi_task).
-- [Prediction analysis codes](https://github.com/bmil-jnu/Tissue-Specific-Carcinogenicity-Prediction-Using-Multi-Task-Learning/model/multi_task))
-- [Comparison model codes](https://github.com/bmil-jnu/Tissue-Specific-Carcinogenicity-Prediction-Using-Multi-Task-Learning/model))
+- [Prediction analysis codes](https://github.com/bmil-jnu/Tissue-Specific-Carcinogenicity-Prediction-Using-Multi-Task-Learning/model/multi_task)
+- [Comparison model codes](https://github.com/bmil-jnu/Tissue-Specific-Carcinogenicity-Prediction-Using-Multi-Task-Learning/model)
 
 ## Dependency
 
