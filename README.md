@@ -1,12 +1,12 @@
-# TS-Carcinogenicity
+# OS-Carcinogenicity
 
-Title: **Tissue-Specific Carcinogenicity Prediction Using Multi-Task Learning on Attention-based Graph Neural Networks**
+Title: **Organ-Specific Carcinogenicity Prediction Using Multi-Task Learning on Attention-based Graph Neural Networks**
 
 Authors: Yunju Song, Sunyong Yoo
 
 ## Description
 
-We present a model that can provide interpretable predictions of tissue-specitif carcinogenicity of compounds using various multi-task learning approaches.
+We present a model that can provide interpretable predictions of organ-specitific carcinogenicity of compounds using various multi-task learning approaches.
 You can find the data and source code used in the paper.
 In addition, we provide a Python file that can be used to generate predictions from the model we trained.
 You can also retrain the model or apply it to new datasets using the provided architecture.
