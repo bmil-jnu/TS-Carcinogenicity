@@ -1,0 +1,12 @@
+C(=O)NNC=O
+C(=S)(N)N
+C(C(=O)O)(Cl)Br
+C(C(CCl)OP(=O)(OC(CCl)CCl)OC(CCl)CCl)Cl
+C(C(CO[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-]
+C1=CC2=NC=C(N2C=C1)C3=CC=C(O3)[N+](=O)[O-]
+C(C=O)Cl
+C(CC(F)(F)F)CN(CCCC(F)(F)F)N=O
+C(CCl)NC(=O)N(CCO)N=O
+C1=CC=C2C(=C1)C=C3C=CC4=C5C3=C2C6=CC=CC=C6C5=CC=C4
+C(CO)N(CC(CO)O)N=O
+CC(=O)O[C@H]1CC[C@@H]2[C@H]3CC[C@]4([C@H]([C@@H]3CCC2=C1)CC[C@]4(C#C)OC(=O)C)C
