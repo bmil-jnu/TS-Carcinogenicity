@@ -1,0 +1,13 @@
+SMILES,result_liv,result_lun,result_mgl
+C(=O)NNC=O,0,1,0
+C(=S)(N)N,1,0,0
+C(C(=O)O)(Cl)Br,1,0,1
+C(C(CCl)OP(=O)(OC(CCl)CCl)OC(CCl)CCl)Cl,1,0,0
+C(C(CO[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-],1,0,0
+C1=CC2=NC=C(N2C=C1)C3=CC=C(O3)[N+](=O)[O-],0,0,1
+C(C=O)Cl,1,0,0
+C(CC(F)(F)F)CN(CCCC(F)(F)F)N=O,1,1,0
+C(CCl)NC(=O)N(CCO)N=O,1,1,0
+C1=CC=C2C(=C1)C=C3C=CC4=C5C3=C2C6=CC=CC=C6C5=CC=C4,0,1,1
+C(CO)N(CC(CO)O)N=O,1,0,0
+CC(=O)O[C@H]1CC[C@@H]2[C@H]3CC[C@]4([C@H]([C@@H]3CCC2=C1)CC[C@]4(C#C)OC(=O)C)C,0,0,1
