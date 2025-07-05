@@ -18,7 +18,7 @@ You can also retrain the model or apply it to new datasets using the provided ar
 - **[Comparison model(CarcGC) codes](https://github.com/bmil-jnu/TS-Carcinogenicity/tree/main/model/CarcGC)** : Performance evaluation comparison model (CarcGC)
 - **[Comparison model(DCAMCP) codes](https://github.com/bmil-jnu/TS-Carcinogenicity/tree/main/model/DCAMCP)** : Performance evaluation comparison model (DCAMCP)
 - **[Comparison model(Random forest) codes](https://github.com/bmil-jnu/TS-Carcinogenicity/tree/main/model/RF)** : Performance evaluation comparison model (RF)
-- **[Comparison model(Support vector machine) codes](https://github.com/bmil-jnu/TS-Carcinogenicity/tree/main/model/SVM)** : Performance evaluation comparison model (SVM)
+- **[Comparison model(XGBoost) codes](https://github.com/bmil-jnu/TS-Carcinogenicity/tree/main/model/XGBoost)** : Performance evaluation comparison model (XGBoost)
 
 If you are interested in the metadata of the original datasets used in this study, you can find detailed information at the following PubChem source pages:
 - **[CCRIS](https://pubchem.ncbi.nlm.nih.gov/source/22070)** 
